@@ -1,5 +1,11 @@
 # TransactionalEmailAppAngular6
 
+Tech Stack:
+
+1. Angular 6
+2. Google Firebase Function Backend
+3. Sendgrid
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
